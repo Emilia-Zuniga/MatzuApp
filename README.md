@@ -1,4 +1,4 @@
-# MatzuApp
+# MatzuApp 📚🎓
 
 ![MATZU](https://user-images.githubusercontent.com/82168337/233217043-d693f087-521c-477d-b2bf-0dc0c4b9969c.png)
 
