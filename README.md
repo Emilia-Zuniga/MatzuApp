@@ -12,6 +12,6 @@ https://youtu.be/qT92S8QN8Eg
 
 # Resources
 
-![swift](https://user-images.githubusercontent.com/82168337/233218104-a9cb1eb9-e839-4cbc-bf0d-a8b27db5af3d.png)
+![logoswift](https://user-images.githubusercontent.com/82168337/233218343-920ca5e9-1ab4-41e3-92f4-a5ced93bb93f.png)
 ![Unknown](https://user-images.githubusercontent.com/82168337/233217356-72eb9ba4-ecc8-4de1-88e7-48f183c4a5b1.jpeg)
 
