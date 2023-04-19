@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pizarra.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
